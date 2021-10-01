@@ -3,12 +3,12 @@
 ### Note: This is a demonestraion repo about how we will we organise the pdf materias 
 
 <details>
-           <summary> Mr:Ahmed Alsaleh</summary>
+           <summary>To  :Mr.Ahmed Alsaleh</summary>
            <p>Content 1 Content 1 Content 1 Content 1 Content 1</p>
 </details>
          
 <details>
-           <summary>Eng.Alaa Elnaggar</summary>
+           <summary>By :Eng.Alaa Elnaggar</summary>
            <p>Content 1 Content 1 Content 1 Content 1 Content 1</p>
 </details>
          
@@ -28,9 +28,11 @@ The GPIO pins allow Analog and Digital IO, plus PWM, SPI, I2C, etc.
 
 This board has been around for almost a year now, and has been used mostly in IoT contexts, where we want to add connectivity for example to an Arduino project. A wide adoption has been facilitated by the very modest price, ranging from 2.50 to 10 USD depending on the features offered by the manufacturers.
 
-Some example projects:
+## Some example projects:
 
 * Temperature logging and Web UI
+![Alt text](https://i.pinimg.com/736x/bf/2a/2a/bf2a2a2b3260f1bd94e9c85ea9f65752.jpg)
+
 * Retro Web Browser
 * Internet Enabled Smoke alarm
 * Technical Features
