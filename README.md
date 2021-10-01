@@ -2,9 +2,15 @@
 ![Alt text](https://images.squarespace-cdn.com/content/v1/59b037304c0dbfb092fbe894/1573230009361-8KRM4G2CWI9FS4AQPL2J/nodemcu_front_side.JPG)
 ### Note: This is a demonestraion repo about how we will we organise the pdf materias 
 
-
-           <summary>submited to : Mr:Ahmed Alsaleh </summary>
-           <summary>submited by : Mr:Alaa Elnaggar </summary>
-
-       
+<details>
+           <summary> Mr:Ahmed Alsaleh</summary>
+           <p>Content 1 Content 1 Content 1 Content 1 Content 1</p>
+</details>
+         
+<details>
+           <summary>Mr:Eng.Alaa Elnaggar</summary>
+           <p>Content 1 Content 1 Content 1 Content 1 Content 1</p>
+</details>
+         
+              
 
