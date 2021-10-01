@@ -31,6 +31,8 @@ This board has been around for almost a year now, and has been used mostly in Io
 ## Some example projects:
 
 * Temperature logging and Web UI
+
+
 ![Alt text](https://i.pinimg.com/736x/bf/2a/2a/bf2a2a2b3260f1bd94e9c85ea9f65752.jpg)
 
 * Retro Web Browser
