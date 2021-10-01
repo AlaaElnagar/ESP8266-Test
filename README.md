@@ -36,8 +36,14 @@ This board has been around for almost a year now, and has been used mostly in Io
 ![Alt text](https://i.pinimg.com/736x/bf/2a/2a/bf2a2a2b3260f1bd94e9c85ea9f65752.jpg)
 
 * Retro Web Browser
+
+![Alt text](https://i.pinimg.com/736x/9d/16/7b/9d167b9e4f50215c42ef883817e997ce.jpg)
+
 * Internet Enabled Smoke alarm
-* Technical Features
+
+![Alt text](https://iotdesignpro.com/sites/default/files/main-image/IoT-based-Fire-Alarm-System-using-NodeMCU-ESP8266_0.jpg)
+
+## Technical Features
 * Wi-Fi Direct (P2P), soft-AP
 * Built-in TCP / IP protocol stack
 * Built-in TR switch, balun, LNA, power amplifier and matching network
@@ -52,60 +58,3 @@ This board has been around for almost a year now, and has been used mostly in Io
 * connect and transfer data packets
 * standby power consumption of less than 1.0mW (DTIM3)
 Variants
-ESP8266-based boards are available from several vendors and with different breakout boards. Most of the boards differ in the number of pins made available, the amount of Flash memory for storing program and data, and the shielding on the SOC for certified boards.
-
-Some boards also support an external uFL antenna connector as well as the buil-in on-chip antenna.
-
-The most common variants are:
-
-ESP-01
-ESP-01
-
-This is the first and simplest board using the ESP8266. It allows to attach serial lines, and only breaks out two GPIO pins for native usage. This is also the cheapest and can be purchased from many chinese suppliers at 2.5 dollars.
-
-ESP-03
-ESP-03
-
-This is the second generation board, breaking out more GPIO pins, and using a different antenna, plus an external antenna connector.
-
-Olimex ESP8266 Eval Board
-Olimex
-
-This board, produced by Olimex, breaks out all the ESP8266 pins in breadboard headers, but can also be soldered as a module.
-It contains 2Mb of flash memory, four times that available on the ESP-01 and ESP-03, for larger firmware and space for files useful to make a webserver.
-
-Using the ESP8266 with Arduino
-Several Libraries have been developed to use ESP8266 as a module for Arduinos.
-
-Also there is a port of the Arduino IDE for programming the ESP Directly, see below.
-
-Using the ESP8266 via Serial port
-You can interact with the ESP8266 sending AT Commands via the provided TX and RX pins by using another microcontroller.
-
-Pay attention to the voltage of your signal lines, as the ESP8266 only works with 3.3v and pins are not 5V tolerant.
-
-I.e. if you want to attach it to an Arduino clone you must use a logic level converter such as this .
-
-An alternative to the logic level converter is to build a voltage divider circuit for each
-signal line.
-
-Programming the ESP8266 Directly
-In order to program the ESP directly you need to install a toolchain and firmware upload utility.
-
-The ESP8266 Wiki explains the process in detail.
-
-You should use the ESP Open SDK to build your toolchain.
-
-Espressif also provides an SDK containing the AT Firmware and the proprietary libraries.
-
-Finally a ready to use VirtualBox virtual machine is available here
-
-As an alternative you might want to program the ESP using the Arduino libraries. A port of the Arduino IDE 1.6.x is available here .
-
-Documentation
-English Datasheet
-Resources
-NURDSpace ESP8266
-Community Wiki
-Vendor Wiki
-Peter Scargill Blog
